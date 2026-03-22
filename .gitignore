@@ -1,0 +1,15 @@
+# Python cache
+--pycache_/
+*pyc
+
+#virtual environment
+venv/
+.env
+
+#Pychamr
+.idea/
+
+#sistema
+
+.DS_Store
+Thumbs.db
