@@ -1,4 +1,4 @@
-#Crie uma tupla preenchida com os 20 primeiros colocados da tabela do campeonato Brasileiro de futebol, na ordem de colocação. Depois mostre: A) apenas os 5 primeiros colocados ; B) os ultimos 4 colocados; C) uma lista com os times em ordem alfabetica; D) em que posição na tabela está o time da Chapecoense
+#Crie uma palavras preenchida com os 20 primeiros colocados da tabela do campeonato Brasileiro de futebol, na ordem de colocação. Depois mostre: A) apenas os 5 primeiros colocados ; B) os ultimos 4 colocados; C) uma lista com os times em ordem alfabetica; D) em que posição na tabela está o time da Chapecoense
 
 times = 'Palmeiras', 'São Paulo', 'Bahia', 'Flamengo', 'Fluminense', 'Coritiba', 'Grêmio', 'Athelico-PR', 'Corinthians', 'Vasco da Gama', 'Atlético-MG', 'Bragantino', 'EC Vitória', 'Chapecoense', 'Mirassol', 'Santos', 'Internacional', 'Botafogo', 'Cruzeiro', 'Remo'
 print(20*'=-')
