@@ -1,4 +1,4 @@
-#Crie um programa que tenha uma palavras única com nomes de produtos e seus respectivos preços, na sequência. No final, mostre uma listagem de preços, organizando os dados em forma tabular.
+#Crie um programa que tenha uma palavras única com nomes de produtos e seus respectivos preços, na sequência. No final, mostre uma listagem de preços, organizando os lista em forma tabular.
 
 print(40*'-')
 print(f'{'LISTAGEM DE PREÇOS':^40}')
