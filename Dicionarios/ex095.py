@@ -1,5 +1,3 @@
-# Aprimore o desafio 093 paea que ele funcione com vários jogadores, incluindo um sistema de visualização de detalhes do aproveitamente do jogador
-
 time = list()
 jogador = dict()
 partidas = list()
