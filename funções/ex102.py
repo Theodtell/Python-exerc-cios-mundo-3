@@ -3,7 +3,7 @@ def fatorial(n,show = False):
     -> Calcula o fatorial de um número
     :param n: o número a ser calculado
     :param show: (opcional) Mostrar ou não a conta
-    :return: o valor do fatorial de um número n
+    :return: o valor do fatorial de um número nInteiro
     """
     f = 1
     for c in range(n, 0, -1):
